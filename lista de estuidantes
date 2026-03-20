@@ -1,0 +1,12 @@
+estudiantes.append("adriana")
+print(estudiantes)#["maria", "juan","marcos","valeri","sergio","keiner","laura"]
+estudianres.append("valeri")
+print(estudiantes)#["maria", "juan","marcos","valeri","sergio","keiner","laura","valeri"]
+
+print(estudiantes)) #10
+if"sergio" in estudiantes:
+    print("sergio esta en la lista de estudiantes")
+
+estudiantes.remove("sergio")
+print(estudiantes) #["maria", "juan","marcos","valeri","keiner","laura","valeri"]
+              
